@@ -8,7 +8,6 @@
 
   <br />
 
-  <img src="https://img.shields.io/badge/University%20of%20Pennsylvania-Incoming%20Student-4C1D95?style=flat-square" alt="University of Pennsylvania" />
   <img src="https://img.shields.io/badge/Cognitive%20Science-Research-6D28D9?style=flat-square" alt="Cognitive Science" />
   <img src="https://img.shields.io/badge/Computer%20Science-Engineering-7C3AED?style=flat-square" alt="Computer Science" />
   <img src="https://img.shields.io/badge/Bloomington%2C%20Illinois-United%20States-4338CA?style=flat-square&logo=googlemaps&logoColor=white" alt="Bloomington, Illinois" />

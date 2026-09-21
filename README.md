@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Bloomington%2C%20Illinois-United%20States-4338CA?style=flat-square&logo=googlemaps&logoColor=white" alt="Bloomington, Illinois" />
  <br /><br />
  
-I am an AI researcher and software engineer with a focus on LLMs and the computational sciences (neuro/bio informatics). I care deeply about intelligence systems, both machine and mind, and I study cognitive and computer science at UPenn. I enjoy working through discomfort in software/application-based problems, and am dedicated to scaling research to results or tools usable in the communities around me.
+I am an AI researcher and software engineer with a focus on LLMs and the computational sciences (neuro/bio informatics). I care deeply about intelligence systems, both machine and mind, and I study cognitive and computer science at **UPenn**. I enjoy working through discomfort in software/application-based problems, and am dedicated to scaling research to results or tools usable in the communities around me.
 
   
   <br />
